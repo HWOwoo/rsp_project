@@ -1,0 +1,62 @@
+@charset "UTF-8";
+
+* {
+		padding: 0 auto;
+		margin: 0 auto;
+	}
+
+	body {
+
+		text-align: center;
+		
+
+	}
+	
+	#wrap {
+		background-image: url(img/background_result.png);
+		width: 800px;
+		height: 900px;
+		background-repeat: no-repeat;
+	}
+
+	#content {
+		padding-top: 300px;
+
+	}
+
+	form {
+		padding-top: 30px ;
+	}
+
+	#banner {
+		background-color: brown;
+		width: 500px;
+		height: 60px;
+		text-align: center;
+		color: white;
+		padding-top: 20px;
+		margin-top: 20px;
+	}
+
+	#content_img {
+
+		vertical-align: middle;
+
+
+	}
+
+	img {
+
+		border: 2px solid gray;
+	}
+
+	#checkrsp {
+
+		word-spacing: 160px;
+		
+	}
+
+	#sub {
+		padding-top: 50px;
+		padding-bottom: 50px;
+	}
